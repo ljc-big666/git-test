@@ -24,6 +24,5 @@ public class Test {
 
         System.out.println((byte) 300);
         
-        System.out.println(666);
     }
 }
