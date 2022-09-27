@@ -17,5 +17,11 @@ public class Test {
         System.out.println(a);
 
         System.out.println("The square root of \u03c0 is " + sqrt(PI));
+
+        double num = 9.997;
+        int nx = (int) round(num);
+        System.out.println(nx);
+
+        System.out.println((byte) 300);
     }
 }
