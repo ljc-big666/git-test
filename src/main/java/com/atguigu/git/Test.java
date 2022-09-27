@@ -23,5 +23,7 @@ public class Test {
         System.out.println(nx);
 
         System.out.println((byte) 300);
+        
+        System.out.println(666);
     }
 }
